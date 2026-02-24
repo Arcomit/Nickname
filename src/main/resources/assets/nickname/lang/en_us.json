@@ -1,0 +1,10 @@
+{
+  "nickname.error.too_long": "Nickname is too long, maximum length is 8 characters",
+  "nickname.error.empty": "Nickname cannot be empty or whitespace only",
+  "nickname.set.success": "Your nickname has been set to: %s",
+  "nickname.clear.success": "Your nickname has been cleared",
+  "nickname.clear.other.success": "Cleared nickname for %s",
+  "nickname.set.duplicate": "Nickname %s is already in use",
+  "gamerule.allowDuplicateNickname": "Allow duplicate nicknames",
+  "nickname.set.change_disallowed": "Nickname change is disallowed"
+}

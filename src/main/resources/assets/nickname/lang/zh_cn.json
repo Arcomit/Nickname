@@ -1,0 +1,10 @@
+{
+  "nickname.error.too_long": "昵称过长，最大长度为 8 个字符",
+  "nickname.error.empty": "昵称不能为空或纯空格",
+  "nickname.set.success": "你的昵称已设置为：%s",
+  "nickname.clear.success": "你的昵称已清除",
+  "nickname.clear.other.success": "已清除 %s 的昵称",
+  "nickname.set.duplicate": "昵称 %s 已被其他玩家使用",
+  "gamerule.allowDuplicateNickname": "允许玩家使用重复的昵称",
+  "nickname.set.change_disallowed": "昵称目前被禁止更改"
+}
